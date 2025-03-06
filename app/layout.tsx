@@ -5,7 +5,7 @@ import { Inter } from 'next/font/google';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'Solar ORC Fluid Recommendation Engine',
+  title: 'Cogen Ai',
   description: 'Calculate the optimal organic working fluid for your Organic Rankine Cycle system based on solar data.',
 };
 
